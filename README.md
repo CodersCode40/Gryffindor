@@ -31,6 +31,7 @@ Each student must have **one folder** named after their **full name** using thes
 fullname
 ```
 
+https://prod.liveshare.vsengsaas.visualstudio.com/join?9C7FE2CC2B6DB8E08EFF0EC05344F362952F
 ### 🔹 Example
 
 If your full name is:
