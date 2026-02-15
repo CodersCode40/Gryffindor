@@ -1,0 +1,21 @@
+this is the reviews for this those who submit their code .
+
+Hackman: we dont assign variable to unknown type in python 
+you did name = hackman but hackman was not know . 
+please pay attention to types when creating variables.
+
+Mase: Your code is too small for me to give you a review and over
+the weekends i did not see any updates.
+
+OdoNti: I noticed your commenting do not reflex what you actually did
+.so you give  a comment removing white spaces but you are using title().
+you are the only one who pratice in the folder and that is  a plus
+you do not like spacing things . please add that to your coding.
+for instance print(name, "this is the name") not  print(name,"this is the name")
+make your code one effective and then human readable too. 
+I also noticed you create so many unwanted variables.
+
+Ephraim : now you had so many comment that were related so why did you 
+not just made it all in one comment using multi commenting or doc strings.
+just becos the F-string works nobody use that you dont want to cause 
+confusion when it not really needed.

@@ -1,0 +1,36 @@
+n = 8
+m = 3
+c = m + n
+print(c)
+
+# ask users for thir input:(this results showed addintion of two strings)
+a = input("whats your number:")
+b = input("whats your number")
+v = a + b
+print(v)
+
+# asking for users input and converting it to integers:
+f = int(input("whats your number:"))
+h = int(input("whats your number:"))
+u = f + h
+print(u)
+
+
+
+
+# floating point numbers:
+a = 4.89
+b = 3.76
+print(a + b)
+
+# asking for users input and convertingg it to float:
+d = float(input("whats d?: "))
+e = float(input("whats e?: "))
+t = d + e
+print(t)
+
+# Rounding numbers:
+r = float(input("whats r?: "))
+s = float(input("whats s?: "))
+y = r + s
+print(round(y + s, 2))
