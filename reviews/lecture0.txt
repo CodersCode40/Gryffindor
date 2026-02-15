@@ -19,3 +19,5 @@ Ephraim : now you had so many comment that were related so why did you
 not just made it all in one comment using multi commenting or doc strings.
 just becos the F-string works nobody use that you dont want to cause 
 confusion when it not really needed.
+
+Newton: your comments are not reflecting what you did 
