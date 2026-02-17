@@ -57,7 +57,7 @@ get_positive_number()
 # get_choice()   
 
 
-# writing a function called analyze_number.
+# writing a function called analyze_number. 
 def analyze_number():
     while True:
         try:
