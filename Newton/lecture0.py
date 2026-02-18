@@ -1,9 +1,10 @@
-print("heelo world")
+# Learning Python - Lecture 0
+print("Hello world")
 
-name = input("What is your name:")
-print(f"Hello, {name} "+" 12 ")
+name = input("What is your name: ")
+print(f"Hello, {name} ")
 
 # removing spaces with the strip() function
 name = input("Enter your name:")
 name = name.strip().capitalize()
-print("Hello")
+print(f"Hello, {name}!")
