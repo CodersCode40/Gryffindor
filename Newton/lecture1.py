@@ -1,3 +1,15 @@
+
+# Using the built in function def
+def focus_on_yourself():
+    sentance = ("Focus on yourself and your own growth.")
+    print(sentance)
+
+# Using the input function to get user input
+name = input("Fuck bitches: ")
+
+
+focus_on_yourself()
+
 # What are conditions
 '''Conditions are used to perform different actions based on different conditions. In Python, you can use the `if`, `elif`, and `else` statements to create conditional statements. The `if` statement is used to test a specific condition, while the `elif` statement is used to test additional conditions if the previous conditions were not true. The `else` statement is used to execute a block of code if all the previous conditions were false.'''
 '''using the operators in python to come up with condition
@@ -73,3 +85,4 @@ def check_out():
     
 # To be continued in the next lecture       
     
+

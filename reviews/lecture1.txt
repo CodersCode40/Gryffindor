@@ -1,0 +1,30 @@
+Newton : 
+ check_out function , variable had wierd names .
+ use variable names that are self explanatory.
+ now in the function you wanted to avoid the else 
+ satement but for that to work . you need to use return  in functions not print.
+
+in your days_of_the_week function
+ Lexicographical order arranges strings or sequences based on alphabetical (or numerical) order, similar to a dictionary. A sequence is less than (
+) another if, at the first differing position, its element comes earlier in the alphabet (e.g., "apple" 
+ "apply"). It is greater than (
+) if the element comes later. 
+Stack Overflow
+Stack Overflow
+ +2 arrangement of the operators matters very well .
+ your function is not making sense for instance what is the use of i = 0 variable.
+
+
+ now in your function_practice.py you worked on functions and scopes and that is very nice work.
+ well done.
+ in 
+ General you coding syntaxing improving keep practicing.
+
+ Ephraim : on your assigment function , you tried to use functional programming which you did well .
+
+ you separation logics was spot on but you use blunt variable naming,improper commenting.
+ indentation matters and the adv's function was meant to keep asking the questions right but i notice the if statement was asked outside the while loop indentation.
+
+ you coding syntax is advancing at alarming rate and i love it . but be mindful of simple errors which can be avoided. 
+i will advice you to always do refactors after your codes works. try to do it in a beter way . or fewer lines .
+python gives you that ability.
