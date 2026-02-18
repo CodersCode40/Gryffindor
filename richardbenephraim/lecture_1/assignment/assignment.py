@@ -2,7 +2,6 @@
 """
 write a parity function that will check if a number is even or old
 """
-
 def main():
     # out  = even_checker()
     
