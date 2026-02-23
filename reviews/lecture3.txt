@@ -1,0 +1,20 @@
+hawa: 
+    you add two folders which one is your main folder.
+    I also noticed you your parity function 
+    you need a docstring withing the function to tell us 
+    what your function is doing .
+    this is for the whole class too .
+
+Bengee: 
+    You actually did the assignment but the main problem was that you did not really do the second assignment .
+    using f-string is not a must if you only need a simple string .
+    you did well and i think you should add  commenting to 
+    your codebase.
+
+Hackman: 
+    you source code it self was good but i have a problem with your comment and and the way you use # single line comments 
+    plus make sure you properly review all the code before you push to github . """ the three strings is very disturbing at the end of your code .
+
+mr.Odo Nti:
+    I noticed that you worked on the repo as usual , but the main problem is that after a break . you were meant to stop indentation so you code wll run but i guess it will never run . please before pushing any code or source code to me . test it  out yourselves.
+
