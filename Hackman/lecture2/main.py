@@ -53,6 +53,7 @@ get_day_of_week()
 
 """
 
+"""
 def check_days():
 
     day = input("what is today:").lower()
@@ -60,6 +61,62 @@ def check_days():
     match day:
         case "monday":
             print("yeah its Monday")
+"""
+            
+
+
+# # for loop
+# animal = "dog"
+# for letter in range(len(animal)):
+#     print(animal[letter])
+
+
+
+# #enumerate us case
+# for index, letter in enumerate(animal):
+#     print(letter, index)
+
+    
+
+# def main():
+#     build_width()
+#     build_length()
+
+
+
+# def build_width():
+#     for b in range(5):
+#         print("#", end=" ")
+
+# def build_length():
+#     for l in range(4):
+#         print("# # # #")
+
+
+
+
+
+
+
+    
+
+
+# if __name__ == "__main__":     
+#     main()
+
+
+
+
+
+# Exceptions
+try:
+    print(a)
+except NameError:
+    print("Variable 'a' is not defined.")
+
+
+
+# RuntimeError
 
 
 
