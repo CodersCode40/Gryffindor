@@ -15,7 +15,7 @@ while success:
     success, frame = video.read()
     count += 1
 
-video.release() # Release resources [9]
+video.release() # Release resources 
 
 
 
