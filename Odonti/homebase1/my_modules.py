@@ -1,25 +1,25 @@
-print("Import my_modules...")
+# print("Import my_modules...")
 
-text = "text string"
+# text = "text string"
 
-def find_index(to_search, target):
-    for i, value in enumerate(to_search):
-        if value == target:
-            return i
+# def find_index(to_search, target):
+#     for i, value in enumerate(to_search):
+#         if value == target:
+#             return i
         
-            return -1
+#             return -1
         
 
-import math
+# import math
 
-def add(a,b):
-    return a+b
+# def add(a,b):
+#     return a+b
 
-def subtruct(a,b):
-    return a-b
+# def subtruct(a,b):
+#     return a-b
 
-def square(x):
-    return x * x
+# def square(x):
+#     return x * x
 
 
 

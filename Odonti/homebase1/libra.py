@@ -16,7 +16,7 @@ import sys
 # printing out the index of a model:
 models = ["toyota", "benz", "opel"]
 key = ko.find_index(models, "opel")
-# print(key)
+print(key)
 
 print(sys)
 
