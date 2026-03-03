@@ -34,6 +34,7 @@ def clossing():
     print("Closing time")
     
 
+#  schedule everyday  time table for a school, at a specific tim: 
 
 schedule.every().day.at("7:00").do(lesson_starts)
 
@@ -54,6 +55,8 @@ schedule.every().day.at("13:30").do(second_break)
 schedule.every().day.at("14:00").do(seventh_lesson)
 
 schedule.every().day.at("15:00").do(clossing)
+
+# set a function that runs the schedule for everyday:
 
 def run_scheduler():
     while True:
