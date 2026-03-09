@@ -17,9 +17,8 @@ def resource_path(relative_path):
 IMAGE_FOLDER = resource_path("images")    
 
 
-# ----------------------------
 # CONFIGURATION
-# ----------------------------
+
 
 POST_TIMES = ["13:30", "13:16", "13:17"]
 
@@ -27,9 +26,9 @@ IMAGE_FOLDER = "images"
 
 
 
-# ----------------------------
+
 # LOGGER SETUP
-# ----------------------------
+
 
 logging.basicConfig(
     filename="bot.log",
@@ -37,9 +36,8 @@ logging.basicConfig(
     format="%(asctime)s - %(message)s"
 )
 
-# ----------------------------
+
 # CAPTION GENERATOR
-# ----------------------------
 
 captions = [
     "Checkout the new cars available 🚗!",
@@ -51,9 +49,9 @@ captions = [
 def generate_caption():
     return random.choice(captions)
 
-# ----------------------------
+
 # HASHTAG GENERATOR
-# ----------------------------
+
 
 hashtags = [
     "#MercedesBenz",
@@ -68,9 +66,9 @@ def generate_hashtags():
     selected = random.sample(hashtags, 3)
     return " ".join(selected)
 
-# ----------------------------
+
 # IMAGE SELECTOR
-# ----------------------------
+
 
 def get_random_image():
 
@@ -92,9 +90,9 @@ def get_random_image():
 
     return image_path
 
-# ----------------------------
+
 # POST FUNCTION
-# ----------------------------
+
 
 def post():
 
@@ -110,9 +108,9 @@ def post():
 
     logging.info(f"Posted: {message} | Image: {image}")
 
-# ----------------------------
+
 # SCHEDULER
-# ----------------------------
+
 
 def start_bot():
 
@@ -125,9 +123,9 @@ def start_bot():
         schedule.run_pending()
         time.sleep(1)
 
-# ----------------------------
+
 # MAIN PROGRAM
-# ----------------------------
+
 def main():
 
 
