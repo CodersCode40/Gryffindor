@@ -71,14 +71,14 @@ def generate_hashtags():
 def get_random_image():
 
     if not os.path.exists(IMAGE_FOLDER):
-        print("❌ Image folder not found")
+        print(" Image folder not found")
         return None
 
     images = [img for img in os.listdir(IMAGE_FOLDER)
               if img.lower().endswith((".jpg", ".jpeg", ".png"))]
 
     if not images:
-        print("❌ No images available")
+        print(" No images available")
         return None
 
     selected_image = random.choice(images)
